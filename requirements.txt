@@ -561,6 +561,7 @@ sse-starlette==3.2.0
 stanio==0.5.1
 starlette==0.52.1
 statsmodels==0.14.6
+streamlit==1.54.0
 stringzilla==4.6.0
 stumpy==1.13.0
 sympy==1.14.0
