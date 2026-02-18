@@ -56,13 +56,17 @@ Dataset yang digunakan berisi informasi kualitas udara dari berbagai station den
 ## 📂 Project Structure
 
 Air-Quality-Dataset-Data-Analysis/
+
 │
+
 ├── dashboard/
+
 │ ├── dashboard.py
 
 │ └── main_data.parquet
 │
 ├── data/
+
 │ ├── PRSA_Data_Aotizhongxin_20130301-20170228.csv
 
 │ ├── PRSA_Data_Changping_20130301-20170228.csv
