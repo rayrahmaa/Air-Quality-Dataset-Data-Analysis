@@ -55,6 +55,7 @@ Dataset yang digunakan berisi informasi kualitas udara dari berbagai station den
 
 ## 📂 Project Structure
 
+```
 Air-Quality-Dataset-Data-Analysis/
 
 │
@@ -64,7 +65,9 @@ Air-Quality-Dataset-Data-Analysis/
 │ ├── dashboard.py
 
 │ └── main_data.parquet
+
 │
+
 ├── data/
 
 │ ├── PRSA_Data_Aotizhongxin_20130301-20170228.csv
@@ -98,6 +101,8 @@ Air-Quality-Dataset-Data-Analysis/
 ├── requirements.txt
 
 └── url.txt
+
+```
 
 ---
 
