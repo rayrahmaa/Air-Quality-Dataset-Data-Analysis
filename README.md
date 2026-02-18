@@ -124,13 +124,13 @@ Dengan menggunakan data kualitas udara dari 12 stasiun pemantauan di Beijing sel
 
 PERTANYAAN BISNIS :
 
-1. Apakah terjadi penurunan konsentrasi PM2.5 di Beijing setelah penerapan kebijakan pengendalian emisi sejak 2013?
+1. Bagaimana tren perubahan konsentrasi PM2.5 di Beijing sejak penerapan kebijakan pengendalian emisi pada tahun 2013?
 
 2. Kapan periode dengan tingkat smog tertinggi terjadi, dan apakah terdapat pola musiman yang konsisten?
 
 3. Sejauh mana kondisi meteorologi berhubungan dengan tingkat konsentrasi PM2.5?
 
-4. Apakah terdapat perbedaan tingkat polusi yang signifikan antar wilayah (station) di Beijing?
+4. Bagaimana perbedaan tingkat polusi udara antar wilayah (station) di Beijing?
 
 ## 📈 Conclusion sebagai Insight Utama
 
